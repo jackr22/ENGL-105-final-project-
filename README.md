@@ -1,2 +1,3 @@
 This respository contains health data for various counties from the years 2014 to 2015.
-The purpose of this respository is to give health data by county and allow for analysis and comparison to aid public health policy decision-making.
+The purpose of this respository is to give health data by county.  
+The potential for this respository is to allow for analysis and comparison of public health data to aid policymakers and public health officals with their public health decision and policy making. It can also be used to find connections and to identify correlation between categories. 
